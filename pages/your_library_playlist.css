@@ -1,0 +1,401 @@
+.your-library-playlist .pm {
+  margin: 0 10px 3px 0;
+  display: inline-block;
+  width: 271px;
+  overflow-wrap: break-word;
+  font-family: 'Inder';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-playlist .rectangle-212 {
+  background: url('../assets/images/rectangle_20.png') 50% / cover no-repeat;
+  margin-right: 7px;
+  width: 23px;
+  height: 23px;
+}
+.your-library-playlist .rectangle-221 {
+  background: url('../assets/images/rectangle_21.png') 50% / cover no-repeat;
+  transform: rotate(89.488deg);
+  margin: 4px 0 0.5px 0;
+  width: 21.2px;
+  height: 18.5px;
+}
+.your-library-playlist .container-2 {
+  display: flex;
+  flex-direction: row;
+  width: 51.2px;
+  box-sizing: border-box;
+}
+.your-library-playlist .container {
+  margin: 0 3px 16px 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 332.2px;
+  box-sizing: border-box;
+}
+.your-library-playlist .ellipse-2 {
+  border-radius: 23.5px;
+  background: url('../assets/images/ellipse_3.png') 50% / cover no-repeat;
+  margin-right: 7px;
+  width: 47px;
+  height: 47px;
+}
+.your-library-playlist .your-library {
+  margin-right: 19px;
+  width: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.your-library-playlist .rectangle-21 {
+  background: url('../assets/images/rectangle_211.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 29px;
+  height: 29px;
+}
+.your-library-playlist .rectangle-38 {
+  background: url('../assets/images/rectangle_381.png') 50% / cover no-repeat;
+  width: 29px;
+  height: 29px;
+}
+.your-library-playlist .container-6 {
+  margin: 5px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 74px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.your-library-playlist .frame-16 {
+  margin: 8px 0 1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 272px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.your-library-playlist .container-8 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 326px;
+  box-sizing: border-box;
+}
+.your-library-playlist .all {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-playlist .container-9 {
+  border-radius: 49px;
+  background: #2C2C2C;
+  position: relative;
+  margin-right: 14px;
+  display: flex;
+  padding: 8px 0 7px 0.4px;
+  width: 83px;
+  box-sizing: border-box;
+}
+.your-library-playlist .artist {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-playlist .container-4 {
+  border-radius: 49px;
+  background: #2C2C2C;
+  position: relative;
+  margin-right: 13px;
+  display: flex;
+  padding: 8px 19.1px 7px 18px;
+  box-sizing: border-box;
+}
+.your-library-playlist .playlist {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-playlist .container-7 {
+  border-radius: 49px;
+  background: #1ED760;
+  position: relative;
+  display: flex;
+  padding: 8px 0 7px 1.2px;
+  width: 105px;
+  box-sizing: border-box;
+}
+.your-library-playlist .container-3 {
+  margin: 0 7px 16px 7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-library-playlist .vector {
+  width: 11.2px;
+  height: 15px;
+}
+.your-library-playlist .iconarrow-top {
+  position: relative;
+  margin-bottom: 7px;
+  display: flex;
+  width: 11.2px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.your-library-playlist .recents {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-playlist .container-1 {
+  margin-bottom: 41px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 111.9px;
+  box-sizing: border-box;
+}
+.your-library-playlist .download-1 {
+  background: url('../assets/images/download_1.jpeg') 50% / cover no-repeat;
+  margin-right: 26px;
+  width: 141px;
+  height: 128px;
+}
+.your-library-playlist .animal {
+  margin: 41px 0 45px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 36px;
+  color: #1ED760;
+}
+.your-library-playlist .playlist-2 {
+  border-radius: 15px;
+  background: #2C2C2C;
+  position: relative;
+  margin: 0 11px 35px 11px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 326px;
+  box-sizing: border-box;
+}
+.your-library-playlist .download-2 {
+  background: url('../assets/images/download_2.jpeg') 50% / cover no-repeat;
+  margin-right: 26.5px;
+  width: 137.3px;
+  height: 124px;
+}
+.your-library-playlist .hot-hit-hindi {
+  margin: 17.9px 0 30.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.your-library-playlist .hot-hit {
+  border-radius: 15px;
+  background: #2C2C2C;
+  position: relative;
+  margin: 0 11px 27px 11px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 326px;
+  box-sizing: border-box;
+}
+.your-library-playlist .download-4 {
+  background: url('../assets/images/download_4.jpeg') 50% / cover no-repeat;
+  margin-right: 23.5px;
+  width: 118px;
+  height: 124px;
+}
+.your-library-playlist .bollywood-central-1 {
+  margin: 35.2px 0 12.8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.your-library-playlist .bollywood-central {
+  border-radius: 15px;
+  background: #2C2C2C;
+  position: relative;
+  margin: 0 11px 76px 11px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding-left: 3px;
+  width: 326px;
+  box-sizing: border-box;
+}
+.your-library-playlist .rectangle-22 {
+  background: url('../assets/images/rectangle_22.png') 50% / cover no-repeat;
+  margin: 0 2.5px 11px 16px;
+  width: 36px;
+  height: 36px;
+}
+.your-library-playlist .rewards-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-playlist .rewards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-library-playlist .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 434.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.your-library-playlist .rectangle-19 {
+  filter: blur(27.5px);
+  border: 5px solid #FFFFFF;
+  position: absolute;
+  right: -98px;
+  bottom: 0px;
+  width: 468px;
+  height: 77px;
+}
+.your-library-playlist .rectangle-191 {
+  background: url('../assets/images/rectangle_19.png') 50% / cover no-repeat;
+  margin: 0 0.2px 19.4px 0;
+  width: 35.2px;
+  height: 26.6px;
+}
+.your-library-playlist .home-1 {
+  margin-left: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.your-library-playlist .home {
+  position: absolute;
+  left: 38.8px;
+  bottom: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.your-library-playlist .rectangle-20 {
+  background: url('../assets/images/rectangle_211.png') 50% / cover no-repeat;
+  margin: 0 3.6px 13.6px 7.6px;
+  width: 30.3px;
+  height: 32.4px;
+}
+.your-library-playlist .search-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.your-library-playlist .search {
+  position: absolute;
+  left: 103.7px;
+  bottom: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.your-library-playlist .libary-1 {
+  margin: 0 13.9px 17px 13.1px;
+  width: 41.4px;
+  height: 29px;
+}
+.your-library-playlist .your-lib {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.your-library-playlist .libary {
+  position: absolute;
+  right: 107.4px;
+  bottom: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.your-library-playlist .rectangle-211 {
+  background: url('../assets/images/rectangle_212.png') 50% / cover no-repeat;
+  margin: 0 10.4px 13px 7.1px;
+  width: 43.4px;
+  height: 35px;
+}
+.your-library-playlist .premium-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.your-library-playlist .premium {
+  position: absolute;
+  right: 26.2px;
+  bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.your-library-playlist .vector-1 {
+  width: 10.7px;
+  height: 15px;
+}
+.your-library-playlist .iconarrow-bottom {
+  position: absolute;
+  left: 18px;
+  top: 163px;
+  display: flex;
+  width: 10.7px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.your-library-playlist {
+  background: #0B0B0B;
+  display: flex;
+  padding: 3px 0 4px 11px;
+  box-sizing: border-box;
+}

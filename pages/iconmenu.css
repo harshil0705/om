@@ -1,0 +1,8 @@
+.iconmenu .vector {
+  width: 15.3px;
+  height: 14px;
+}
+.iconmenu {
+  display: flex;
+  box-sizing: border-box;
+}

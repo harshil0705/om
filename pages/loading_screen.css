@@ -1,0 +1,38 @@
+.loading-screen .pm {
+  margin: 0 33.7px 455px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inder';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.loading-screen .frame-1 {
+  background: url('../assets/images/frame_1.png') 50% / cover no-repeat;
+  margin: 306px 36px 0 0;
+  height: 169px;
+  flex-grow: 1;
+  flex-basis: 158px;
+}
+.loading-screen .rectangle-28 {
+  background: url('../assets/images/rectangle_20.png') 50% / cover no-repeat;
+  margin: 0 7px 452px 0;
+  height: 23px;
+  flex-grow: 1;
+  flex-basis: 23px;
+}
+.loading-screen .rectangle-29 {
+  background: url('../assets/images/rectangle_21.png') 50% / cover no-repeat;
+  transform: rotate(89.488deg);
+  margin: 4px 0 452.5px 0;
+  height: 18.5px;
+  flex-grow: 1;
+  flex-basis: 21.2px;
+}
+.loading-screen {
+  background: #0B0B0B;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 13.8px 0 14px;
+  box-sizing: border-box;
+}

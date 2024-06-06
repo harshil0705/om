@@ -1,0 +1,139 @@
+.android-large-6 .rectangle-36 {
+  border-radius: 200px;
+  background: url('../assets/images/ellipse_3.png') 50% / cover no-repeat;
+  margin-right: 8px;
+  height: 88px;
+  flex-grow: 1;
+  flex-basis: 88px;
+}
+.android-large-6 .harshil-shethia {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.android-large-6 .view-profile {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #656363;
+}
+.android-large-6 .frame-10 {
+  margin: 26px 0 14px 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 218.1px;
+  box-sizing: border-box;
+}
+.android-large-6 .container {
+  margin: 0 0 77px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.android-large-6 .rectangle-37 {
+  background: url('../assets/images/rectangle_381.png') 50% / cover no-repeat;
+  margin-right: 33px;
+  width: 49px;
+  height: 46px;
+}
+.android-large-6 .add-account-1 {
+  margin: 7px 0 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.android-large-6 .add-account {
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.android-large-6 .rectangle-38 {
+  background: url('../assets/images/rectangle_38.png') 50% / cover no-repeat;
+  margin-right: 35.8px;
+  width: 42.2px;
+  height: 52.5px;
+}
+.android-large-6 .whats-new {
+  margin: 3px 0 20.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.android-large-6 .what-new {
+  margin: 0 4px 17.5px 4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.android-large-6 .rectangle-39 {
+  background: url('../assets/images/rectangle_39.png') 50% / cover no-repeat;
+  margin-right: 30px;
+  width: 45px;
+  height: 45px;
+}
+.android-large-6 .listening-history {
+  margin: 12px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.android-large-6 .frame-13 {
+  margin: 0 5px 32px 5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.android-large-6 .rectangle-40 {
+  background: url('../assets/images/rectangle_40.png') 50% / cover no-repeat;
+  margin-right: 35px;
+  height: 40px;
+  flex-grow: 1;
+  flex-basis: 40px;
+}
+.android-large-6 .setting-and-privacy {
+  margin-top: 11px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.android-large-6 .frame-14 {
+  margin: 0 10.8px 0 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 17.8px);
+  box-sizing: border-box;
+}
+.android-large-6 {
+  background: #202020;
+  display: flex;
+  flex-direction: column;
+  padding: 15px 22.9px 365px 22px;
+  box-sizing: border-box;
+}

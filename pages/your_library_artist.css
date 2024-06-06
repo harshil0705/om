@@ -1,0 +1,388 @@
+.your-library-artist .pm {
+  margin: 0 10px 3px 0;
+  display: inline-block;
+  width: 271px;
+  overflow-wrap: break-word;
+  font-family: 'Inder';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-artist .rectangle-212 {
+  background: url('../assets/images/rectangle_20.png') 50% / cover no-repeat;
+  margin-right: 7px;
+  width: 23px;
+  height: 23px;
+}
+.your-library-artist .rectangle-221 {
+  background: url('../assets/images/rectangle_21.png') 50% / cover no-repeat;
+  transform: rotate(89.488deg);
+  margin: 4px 0 0.5px 0;
+  width: 21.2px;
+  height: 18.5px;
+}
+.your-library-artist .container-6 {
+  display: flex;
+  flex-direction: row;
+  width: 51.2px;
+  box-sizing: border-box;
+}
+.your-library-artist .container-5 {
+  margin: 0 3px 16px 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 332.2px;
+  box-sizing: border-box;
+}
+.your-library-artist .ellipse-2 {
+  border-radius: 23.5px;
+  background: url('../assets/images/ellipse_3.png') 50% / cover no-repeat;
+  margin-right: 7px;
+  width: 47px;
+  height: 47px;
+}
+.your-library-artist .your-library {
+  margin-right: 19px;
+  width: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.your-library-artist .rectangle-21 {
+  background: url('../assets/images/rectangle_211.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 29px;
+  height: 29px;
+}
+.your-library-artist .rectangle-38 {
+  background: url('../assets/images/rectangle_381.png') 50% / cover no-repeat;
+  width: 29px;
+  height: 29px;
+}
+.your-library-artist .container-2 {
+  margin: 5px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 74px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.your-library-artist .frame-16 {
+  margin: 8px 0 1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 272px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.your-library-artist .container-11 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 326px;
+  box-sizing: border-box;
+}
+.your-library-artist .all {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-artist .container-3 {
+  border-radius: 49px;
+  background: #2C2C2C;
+  position: relative;
+  display: flex;
+  padding: 8px 0 7px 0.4px;
+  width: 83px;
+  box-sizing: border-box;
+}
+.your-library-artist .artist {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-artist .container {
+  border-radius: 49px;
+  background: #1ED760;
+  position: relative;
+  display: flex;
+  padding: 8px 19.1px 7px 18px;
+  box-sizing: border-box;
+}
+.your-library-artist .playlist {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-artist .container-7 {
+  border-radius: 49px;
+  background: #2C2C2C;
+  position: relative;
+  display: flex;
+  padding: 8px 0 7px 1.2px;
+  width: 105px;
+  box-sizing: border-box;
+}
+.your-library-artist .container-10 {
+  margin: 0 12px 16px 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-library-artist .vector {
+  width: 11.2px;
+  height: 15px;
+}
+.your-library-artist .iconarrow-top {
+  position: relative;
+  margin-bottom: 7px;
+  display: flex;
+  width: 11.2px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.your-library-artist .recents {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-artist .container-1 {
+  margin-bottom: 37px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 111.9px;
+  box-sizing: border-box;
+}
+.your-library-artist .ellipse-6 {
+  margin-right: 16px;
+  width: 94px;
+  height: 86px;
+}
+.your-library-artist .yo-yo-honey-singh {
+  margin: 30px 0 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.your-library-artist .frame-17 {
+  margin: 0 2px 57px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-library-artist .ellipse-7 {
+  margin-right: 24px;
+  width: 94px;
+  height: 86px;
+}
+.your-library-artist .arijit-singh {
+  margin: 32px 0 26px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.your-library-artist .container-4 {
+  margin: 0 7px 57px 7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-library-artist .ellipse-8 {
+  margin-right: 34px;
+  width: 94px;
+  height: 86px;
+}
+.your-library-artist .drake {
+  margin: 33px 0 25px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.your-library-artist .container-9 {
+  margin: 0 7px 146px 7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-library-artist .rectangle-22 {
+  background: url('../assets/images/rectangle_22.png') 50% / cover no-repeat;
+  margin: 0 2.5px 11px 16px;
+  width: 36px;
+  height: 36px;
+}
+.your-library-artist .rewards-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.your-library-artist .rewards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.your-library-artist .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 434.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.your-library-artist .rectangle-19 {
+  filter: blur(27.5px);
+  border: 5px solid #FFFFFF;
+  position: absolute;
+  right: -98px;
+  bottom: 0px;
+  width: 468px;
+  height: 77px;
+}
+.your-library-artist .rectangle-191 {
+  background: url('../assets/images/rectangle_19.png') 50% / cover no-repeat;
+  margin: 0 0.2px 19.4px 0;
+  width: 35.2px;
+  height: 26.6px;
+}
+.your-library-artist .home-1 {
+  margin-left: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.your-library-artist .home {
+  position: absolute;
+  left: 42.8px;
+  bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.your-library-artist .rectangle-20 {
+  background: url('../assets/images/rectangle_211.png') 50% / cover no-repeat;
+  margin: 0 0 13.6px 12.6px;
+  width: 30.3px;
+  height: 32.4px;
+}
+.your-library-artist .search-1 {
+  margin-right: 1.4px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.your-library-artist .search {
+  position: absolute;
+  left: 113.7px;
+  bottom: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.your-library-artist .libary-1 {
+  margin: 0 13.9px 17px 13.1px;
+  width: 41.4px;
+  height: 29px;
+}
+.your-library-artist .your-lib {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.your-library-artist .libary {
+  position: absolute;
+  right: 105.4px;
+  bottom: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.your-library-artist .rectangle-211 {
+  background: url('../assets/images/rectangle_212.png') 50% / cover no-repeat;
+  margin: 0 10.4px 13px 7.1px;
+  width: 43.4px;
+  height: 35px;
+}
+.your-library-artist .premium-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.your-library-artist .premium {
+  position: absolute;
+  right: 25.2px;
+  bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.your-library-artist .vector-1 {
+  width: 10.7px;
+  height: 15px;
+}
+.your-library-artist .iconarrow-bottom {
+  position: absolute;
+  left: 18px;
+  top: 163px;
+  display: flex;
+  width: 10.7px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.your-library-artist {
+  background: #0B0B0B;
+  display: flex;
+  padding: 3px 0 4px 11px;
+  box-sizing: border-box;
+}

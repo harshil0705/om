@@ -1,0 +1,362 @@
+.animal-playlist-from-home-screen .rectangle-201 {
+  filter: blur(27.5px);
+  border: 5px solid #FFFFFF;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 3px;
+  height: 66px;
+}
+.animal-playlist-from-home-screen .pm {
+  margin: 0 0 1px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inder';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.animal-playlist-from-home-screen .rectangle-24 {
+  background: url('../assets/images/rectangle_28.png') 50% / cover no-repeat;
+  margin-right: 10.3px;
+  width: 44px;
+  height: 32px;
+}
+.animal-playlist-from-home-screen .container-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .rectangle-19 {
+  background: url('../assets/images/rectangle_20.png') 50% / cover no-repeat;
+  margin-right: 7px;
+  width: 23px;
+  height: 23px;
+}
+.animal-playlist-from-home-screen .rectangle-20 {
+  background: url('../assets/images/rectangle_21.png') 50% / cover no-repeat;
+  transform: rotate(89.488deg);
+  margin: 4px 0 0.5px 0;
+  width: 21.2px;
+  height: 18.5px;
+}
+.animal-playlist-from-home-screen .container-4 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  width: 51.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .container-5 {
+  margin: 0 8.8px 17px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 8.8px);
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .rectangle-25 {
+  background: url('../assets/images/rectangle_211.png') 50% / cover no-repeat;
+  margin-bottom: 1px;
+  width: 27px;
+  height: 28px;
+}
+.animal-playlist-from-home-screen .find-in-album {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.animal-playlist-from-home-screen .container-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  border: 2px solid #3D3939;
+  position: relative;
+  margin: 0 0 27px 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 0 6px 7px;
+  width: calc(100% - 3px);
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .download-6 {
+  background: url('../assets/images/download_1.jpeg') 50% / cover no-repeat;
+  margin: 0 0 38px 40px;
+  align-self: center;
+  width: 216px;
+  height: 196px;
+}
+.animal-playlist-from-home-screen .animal {
+  margin: 0 23px 3px 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.animal-playlist-from-home-screen .album-2023 {
+  margin: 0 23px 12px 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.animal-playlist-from-home-screen .rectangle-582 {
+  background: url('../assets/images/rectangle_56.png') 50% / cover no-repeat;
+  margin-right: 9px;
+  width: 31px;
+  height: 31px;
+}
+.animal-playlist-from-home-screen .rectangle-26 {
+  background: url('../assets/images/rectangle_26.png') 50% / cover no-repeat;
+  margin-right: 8px;
+  width: 31px;
+  height: 31px;
+}
+.animal-playlist-from-home-screen .rectangle-58 {
+  background: url('../assets/images/rectangle_54.png') 50% / cover no-repeat;
+  width: 31px;
+  height: 31px;
+}
+.animal-playlist-from-home-screen .container-3 {
+  display: flex;
+  flex-direction: row;
+  width: 110px;
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .rectangle-27 {
+  background: url('../assets/images/rectangle_27.png') 50% / cover no-repeat;
+  margin: 5px 0 2px 0;
+  width: 24px;
+  height: 24px;
+}
+.animal-playlist-from-home-screen .ellipse-4 {
+  margin: 5px 0 2px 0;
+  width: 28px;
+  height: 24px;
+}
+.animal-playlist-from-home-screen .container-6 {
+  margin: 0 18px 39px 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 41px);
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .arjan-vailly-manan-bhardwaj-bhupinder-babbal {
+  margin-right: 17.5px;
+  width: 253.5px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.arjan-vailly-manan-bhardwaj-bhupinder-babbal {
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #5A5959;
+}
+.animal-playlist-from-home-screen .rectangle-581 {
+  background: url('../assets/images/rectangle_54.png') 50% / cover no-repeat;
+  margin: 4px 0 10px 0;
+  width: 21px;
+  height: 21px;
+}
+.animal-playlist-from-home-screen .arjan-vailly {
+  margin: 0 31px 45px 19px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 50px);
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .hua-main-raghav-chaitanya-manoj-muntas {
+  margin-right: 17.5px;
+  width: 258.5px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.hua-main-raghav-chaitanya-manoj-muntas {
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #5A5959;
+}
+.animal-playlist-from-home-screen .rectangle-59 {
+  background: url('../assets/images/rectangle_54.png') 50% / cover no-repeat;
+  margin: 4px 0 10px 0;
+  width: 21px;
+  height: 21px;
+}
+.animal-playlist-from-home-screen .hua-main {
+  margin: 0 29px 29px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 45px);
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .satranga-arjit-singh-sheryas-puraniksiddharth {
+  margin-right: 17.5px;
+  width: 256.5px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.satranga-arjit-singh-sheryas-puraniksiddharth {
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #5A5959;
+}
+.animal-playlist-from-home-screen .rectangle-60 {
+  background: url('../assets/images/rectangle_54.png') 50% / cover no-repeat;
+  width: 21px;
+  height: 21px;
+}
+.animal-playlist-from-home-screen .frame-7 {
+  margin: 9px 0 5px 0;
+  display: flex;
+  width: 21px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .satranga {
+  margin: 0 28px 37px 19px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 47px);
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .rectangle-191 {
+  background: url('../assets/images/rectangle_19.png') 50% / cover no-repeat;
+  margin: 0 0 15.4px 3px;
+  width: 35.2px;
+  height: 26.6px;
+}
+.animal-playlist-from-home-screen .home-1 {
+  margin-right: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.animal-playlist-from-home-screen .home {
+  margin: 0 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .ellipse-2 {
+  border-radius: 4.5px;
+  background: url('../assets/images/ellipse_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 81px;
+  bottom: 369px;
+  width: 9px;
+  height: 9px;
+}
+.animal-playlist-from-home-screen .rectangle-202 {
+  background: url('../assets/images/rectangle_211.png') 50% / cover no-repeat;
+  margin: 0 0 13.6px 12.6px;
+  width: 30.3px;
+  height: 32.4px;
+}
+.animal-playlist-from-home-screen .search-1 {
+  margin-right: 1.4px;
+  overflow-wrap: break-word;
+  font-family: 'Arial', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.animal-playlist-from-home-screen .search {
+  position: absolute;
+  left: 98px;
+  bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .libary-1 {
+  margin: 0 13.3px 13px 13.8px;
+  width: 41.4px;
+  height: 29px;
+}
+.animal-playlist-from-home-screen .your-lib {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.animal-playlist-from-home-screen .libary {
+  position: absolute;
+  right: 111.6px;
+  bottom: 9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen .rectangle-21 {
+  background: url('../assets/images/rectangle_212.png') 50% / cover no-repeat;
+  margin: 0 10.4px 13px 7.1px;
+  width: 43.4px;
+  height: 35px;
+}
+.animal-playlist-from-home-screen .premium-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.animal-playlist-from-home-screen .premium {
+  position: absolute;
+  right: 23.1px;
+  bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.animal-playlist-from-home-screen {
+  background: linear-gradient(180deg, #A9AA87, #0B0B0B);
+  display: flex;
+  padding: 0 11px 6px 7px;
+  box-sizing: border-box;
+}

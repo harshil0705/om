@@ -1,0 +1,8 @@
+.iconarrow-top .vector {
+  width: 54px;
+  height: 86.4px;
+}
+.iconarrow-top {
+  display: flex;
+  box-sizing: border-box;
+}

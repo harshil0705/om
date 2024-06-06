@@ -1,0 +1,130 @@
+.home-screen .pm {
+  margin: 0 10px 3px 0;
+  display: inline-block;
+  width: 271px;
+  overflow-wrap: break-word;
+  font-family: 'Inder';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.home-screen .rectangle-21 {
+  background: url('../assets/images/rectangle_20.png') 50% / cover no-repeat;
+  margin-right: 7px;
+  width: 23px;
+  height: 23px;
+}
+.home-screen .rectangle-22 {
+  background: url('../assets/images/rectangle_21.png') 50% / cover no-repeat;
+  transform: rotate(89.488deg);
+  margin: 4px 0 0.5px 0;
+  width: 21.2px;
+  height: 18.5px;
+}
+.home-screen .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: 51.2px;
+  box-sizing: border-box;
+}
+.home-screen .container {
+  margin-bottom: 566px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.home-screen .rectangle-7 {
+  border-radius: 20px;
+  border: 1px solid #FFFFFF;
+  background: url('../assets/images/rectangle_7.png') 50% / cover no-repeat;
+  margin-right: 30px;
+  height: 59px;
+  flex-grow: 1;
+  flex-basis: 59px;
+}
+.home-screen .rectangle-4 {
+  border-radius: 20px;
+  border: 1px solid #FFFFFF;
+  background: url('../assets/images/rectangle_4.png') 50% / cover no-repeat;
+  margin-right: 30px;
+  height: 59px;
+  flex-grow: 1;
+  flex-basis: 59px;
+}
+.home-screen .rectangle-6 {
+  border-radius: 20px;
+  border: 1px solid #D9D9D9;
+  background: url('../assets/images/rectangle_6.png') 50% / cover no-repeat;
+  margin-right: 30px;
+  height: 59px;
+  flex-grow: 1;
+  flex-basis: 59px;
+}
+.home-screen .rectangle-2 {
+  border-radius: 20px;
+  border: 1px solid #FFFFFF;
+  background: url('../assets/images/rectangle_2.png') 50% / cover no-repeat;
+  height: 59px;
+  flex-grow: 1;
+  flex-basis: 59px;
+}
+.home-screen .container-3 {
+  margin: 0 6.2px 48px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 6.2px);
+  box-sizing: border-box;
+}
+.home-screen .rectangle-1 {
+  border-radius: 20px;
+  border: 1px solid #FFFFFF;
+  background: url('../assets/images/rectangle_1.png') 50% / cover no-repeat;
+  margin-right: 30px;
+  height: 59px;
+  flex-grow: 1;
+  flex-basis: 59px;
+}
+.home-screen .rectangle-8 {
+  border-radius: 20px;
+  border: 1px solid #D9D9D9;
+  background: url('../assets/images/rectangle_8.png') 50% / cover no-repeat;
+  margin-right: 30px;
+  height: 59px;
+  flex-grow: 1;
+  flex-basis: 59px;
+}
+.home-screen .rectangle-5 {
+  border-radius: 20px;
+  border: 1px solid #D9D9D9;
+  background: url('../assets/images/rectangle_5.png') 50% / cover no-repeat;
+  margin-right: 30px;
+  height: 59px;
+  flex-grow: 1;
+  flex-basis: 59px;
+}
+.home-screen .rectangle-3 {
+  border-radius: 20px;
+  border: 1px solid #FFFFFF;
+  background: url('../assets/images/rectangle_3.png') 50% / cover no-repeat;
+  height: 59px;
+  flex-grow: 1;
+  flex-basis: 59px;
+}
+.home-screen .container-2 {
+  margin-right: 6.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 6.2px);
+  box-sizing: border-box;
+}
+.home-screen {
+  background: url('../assets/images/home_screen.jpeg') 50% / cover no-repeat, linear-gradient(#FFFFFF, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  padding: 13px 17.8px 32px 10px;
+  box-sizing: border-box;
+}
